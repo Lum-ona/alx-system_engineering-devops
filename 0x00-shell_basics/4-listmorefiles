@@ -1,8 +1,0 @@
-#!/bin/bash
-total 32
-drwxr-xr-x  6 lumona  staff  192  1 Jan 23:04 .
-drwxr-xr-x  5 lumona  staff  160  1 Jan 22:55 ..
--rw-r--r--  1 lumona  staff   15  1 Jan 23:00 0-current_working_directory
--rw-r--r--  1 lumona  staff   49  1 Jan 23:04 1-listit
--rw-r--r--  1 lumona  staff   14  1 Jan 23:05 2-bring_me_home
--rw-r--r--  1 lumona  staff   31  1 Jan 22:56 README.md
